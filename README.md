@@ -1,7 +1,8 @@
 # RC_Biped-_Robot  
 designed and build radio controlled biped (two legged ) robot   
-aim was to achive a robot which I can develop (implement new things) furthe.   
-build with:  
+aim was to achive a robot which I can develop (implement new things) furthe.  
+ Link to Youtube Video on my channel :  https://youtu.be/LNznLZhhkq8  
+Build with:  
 
     Sg90 servo motors: these motors have very low torque and have poor design therefor I had to modify (can work without
         modification also) the motor they are nearly square withe some space left empty,I rearange the components in it and made it
