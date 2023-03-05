@@ -4,11 +4,7 @@
 #define r A0
 #define f A2
 #define b A3               
-                           /* 
-                            *T=alpha - theta=(asine(  y  /  sqrt(x*x+y*y) )
-                            *theta=A=(asin(  (y*y+x*x+a*a-b*b)  /   (sqrt(y*y+x*x)*2a)   )*57.2957795 -T);
-                            *alpha=B=(asin(  (y*y+x*x-a*a+b*b) / (sqrt(x*x+y*y)*2b)    )*57.2957795 +A-T);
-                           */
+                           
 Servo w1;
 Servo f1;
 Servo w2;
